@@ -1,0 +1,8 @@
+# Site settings
+title: Python Compiler App
+
+# Build settings
+theme: minimal-mistakes-jekyll
+
+# Minimal Mistakes specific settings
+locale: en-US
